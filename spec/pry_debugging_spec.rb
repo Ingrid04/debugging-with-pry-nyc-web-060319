@@ -8,6 +8,6 @@ describe "#plus_two" do
 binding.pry
 end
 
-def prying_plus_two (num = 3)
+def plus_two (num = 3)
   num + 2
 end
